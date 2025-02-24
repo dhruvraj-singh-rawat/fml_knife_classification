@@ -47,9 +47,9 @@ bash test.sh
 ```
 
 
-```
 
-## ⚙️ Key Dependencies
+
+### ⚙️ Key Dependencies
 - Python 3.x
 - PyTorch
 - timm
